@@ -7,5 +7,4 @@ function balikString(str){
     }
     return tampung
 }
-
 console.log(balikString(str))
